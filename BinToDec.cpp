@@ -14,7 +14,7 @@ int _tmain(int argc, _TCHAR* argv[])
     system("cls");
     std::cout << "Input a binary number\r\n";
     std::getline(std::cin, strLine);
-    int nStrLen = strLine.length();
+    unsigned int nStrLen = static_cast<unsigned int>(strLine.length());
     bool bIsRightString = (nStrLen <= nMaxBinDigits ) &&
     	 (std::regex_match(strLine, oRegEx));
     if (!bIsRightString)
@@ -29,8 +29,8 @@ int _tmain(int argc, _TCHAR* argv[])
         nBinNum += (nBinDigit * nBinPower);
         nBinPower *= 2;
     }
-    std::cout << "The decenary equavalent of the binary number "
-        << strLine << " is: " << nBinNum << "\r\n";
+    std::cout << "The decimal equavalent of the binary number "
+              << strLine << " is: " << nBinNum << "\r\n";
     std::cin.get();
     return 0;
 }
