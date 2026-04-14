@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.372,D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\BinToDec.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\BinToDecPCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.904,D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\BinToDec.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\BinToDec.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.352,D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.323,D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\BinToDec.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\File1.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\BinToDec.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.600,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.352,C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\File1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.765,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.333,D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\BinToDecPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.372,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\BinToDec\BinToDec.cbproj</Transaction>
   </Transactions>
 </BorlandProject>
