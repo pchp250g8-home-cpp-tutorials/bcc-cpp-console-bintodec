@@ -6,7 +6,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-    const unsigned int nMaxBinDigits = static_cast<unsigned int>(floor(log2(UINT32_MAX)));
+    const unsigned int nMaxBinDigits = static_cast<unsigned int>(ceil(log2(UINT32_MAX)));
     const std::regex oRegEx("^[0-1]+$");
     unsigned int nBinPower = 1;
     unsigned int nBinNum = 0;
